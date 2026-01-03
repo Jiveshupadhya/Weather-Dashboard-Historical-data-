@@ -10,4 +10,6 @@ st.set_page_config(page_title ="Weather History Dashboard",
 st.title=("🌍 Global Weather History Dashboard")
 st.write=("Analyse **monthly historical temperature and precipitation data**, valid data till 2024 only")
 
+API_Key= "242f33d48a4115ad310b1c710b7b75fb"
+
 
